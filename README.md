@@ -1,6 +1,6 @@
-# Visualizador de Banners
+# My Repo
 
-Uma aplicação React moderna para visualizar diferentes tipos de arquivos (imagens, PDFs, vídeos, documentos) através de uma interface intuitiva e responsiva.
+Uma aplicação React moderna para visualizar diferentes tipos de arquivos (imagens, PDFs, vídeos, documentos)
 
 ## 🚀 Funcionalidades
 
@@ -178,7 +178,3 @@ Remove um arquivo do sistema.
 - [ ] Paginação para muitos arquivos
 - [ ] Preview em miniatura para imagens
 - [ ] Histórico de visualizações
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT.
