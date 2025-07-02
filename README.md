@@ -178,3 +178,5 @@ Remove um arquivo do sistema.
 - [ ] Paginação para muitos arquivos
 - [ ] Preview em miniatura para imagens
 - [ ] Histórico de visualizações
+
+**Desenvolvido por Gabriel Souza Silva**
